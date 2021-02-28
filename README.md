@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there, I am Sabrina Kuah and I am a full-stack web developer and educator  👋 🍎 </h1>
+<h2 align="center"> Hi there, I am Sabrina Kuah!  <br/> I am a full-stack web developer and educator.   <br/> 👋 🍎 </h2>
 
 
-<h3 align="center"> I’m currently completing the Software Systems Developer program at BCIT.  I will finish in May 2021. </h3>
+<h3 align="center"> I’m currently completing the Software Systems Developer program at BCIT.  I will be finishing in May 2021. </h3>
 
 <h4>🌱  Some of what I've learned: </h4>
 
